@@ -1,0 +1,8 @@
+---
+title: "Homework 1"
+author: Jeff Goldsmith
+output: github_document
+---
+
+This is my solution to HW1.
+
